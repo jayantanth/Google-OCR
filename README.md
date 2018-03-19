@@ -1,5 +1,6 @@
 # Google-OCR
-Google OCR script by Saunak Roy Chowdhury
+Google OCR script edited by Saunak Roy Chowdhury from https://github.com/tshrinivasan/google-ocr-python
+
 
 Follow the Google API authentication as describe here for Drive OCR .. 
 See a demo video on installation, setup, usage in here: https://www.youtube.com/watch?v=PH9TnD67oj4&feature=youtu.be
