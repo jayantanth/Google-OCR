@@ -3,10 +3,12 @@ Google OCR script edited by Saunak Roy Chowdhury from https://github.com/tshrini
 
 
 Follow the Google API authentication as describe here for Drive OCR .. 
+
 https://developers.google.com/api-client-library/python/samples/samples
 
 
 See a demo video on installation, setup, usage in here: 
+
 https://www.youtube.com/watch?v=PH9TnD67oj4&feature=youtu.be
 
 
