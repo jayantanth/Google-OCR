@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=PH9TnD67oj4&feature=youtu.be
 
 2. Use "Ghost Script" tool to convert a pdf into individual images.
 
-exaimple:
+example:
 
 gs -q -DNOPAUSE -DBATCH -r400 -SDEVICE=a4 -sOutputFile=abcd%d.jpg abcd.pdf
 
