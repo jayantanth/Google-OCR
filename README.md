@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=PH9TnD67oj4&feature=youtu.be
 
 example:
 
-gs -q -DNOPAUSE -DBATCH -r400 -SDEVICE=a4 -sOutputFile=abcd%d.jpg abcd.pdf
+gs -q -DNOPAUSE -DBATCH -r400 -sDEVICE=a4 -sOutputFile=abcd%d.jpg abcd.pdf
 
 3. Download google-ocr.py script at same JPG image  folder
 
