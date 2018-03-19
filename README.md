@@ -2,8 +2,13 @@
 Google OCR script edited by Saunak Roy Chowdhury from https://github.com/tshrinivasan/google-ocr-python
 
 
-Follow the Google API authentication as describe here for Drive OCR .. https://developers.google.com/api-client-library/python/samples/samples
-See a demo video on installation, setup, usage in here: https://www.youtube.com/watch?v=PH9TnD67oj4&feature=youtu.be
+Follow the Google API authentication as describe here for Drive OCR .. 
+https://developers.google.com/api-client-library/python/samples/samples
+
+
+See a demo video on installation, setup, usage in here: 
+https://www.youtube.com/watch?v=PH9TnD67oj4&feature=youtu.be
+
 
 1. install gdcmdtools from https://github.com/tienfuc/gdcmdtools and complete the setup
 
